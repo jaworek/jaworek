@@ -1,8 +1,8 @@
-Hi, I'm Jan! 👋
+## Hi, I'm Jan! 👋
 
 I'm React and React Native developer.
 
-I work at {Callstack}.
+I work at [{Callstack}](https://www.callstack.com/).
 
 I'm VIM and all weather cycling enjoyer.
 
